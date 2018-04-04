@@ -3,7 +3,7 @@
 Redux is a predictable state container for JavaScript apps.  
 (If you’re looking for a WordPress framework, check out [Redux Framework](https://reduxframework.com/).)
 
-It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time traveling debugger](https://github.com/gaearon/redux-devtools).
+It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time-traveling debugger](https://github.com/gaearon/redux-devtools).
 
 You can use Redux together with [React](https://facebook.github.io/react/), or with any other view library.  
 It is tiny (2kB, including dependencies).
@@ -12,7 +12,7 @@ It is tiny (2kB, including dependencies).
 [![npm version](https://img.shields.io/npm/v/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux)
 [![npm downloads](https://img.shields.io/npm/dm/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux)
 [![redux channel on discord](https://img.shields.io/badge/discord-%23redux%20%40%20reactiflux-61dafb.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bZ6au5t)
-[![#rackt on freenode](https://img.shields.io/badge/irc-%23rackt%20%40%20freenode-61DAFB.svg?style=flat-square)](https://webchat.freenode.net/)
+[![#rackt on Freenode](https://img.shields.io/badge/irc-%23rackt%20%40%20freenode-61DAFB.svg?style=flat-square)](https://webchat.freenode.net/)
 [![Changelog #187](https://img.shields.io/badge/changelog-%23187-lightgrey.svg?style=flat-square)](https://changelog.com/187)
 
 >**New! Learn Redux from its creator:  
@@ -135,16 +135,16 @@ This architecture might seem like an overkill for a counter app, but the beauty 
 >[“Great course on egghead.io by @dan_abramov - instead of just showing you how to use #redux, it also shows how and why redux was built!”](https://twitter.com/sandrinodm/status/670548531422326785)  
 >Sandrino Di Mattia
 
->[“Plowing through @dan_abramov 'Getting Started with Redux' - its amazing how much simpler concepts get with video.”](https://twitter.com/chrisdhanaraj/status/670328025553219584)  
+>[“Plowing through @dan_abramov 'Getting Started with Redux' - it is amazing how much simpler concepts get with video.”](https://twitter.com/chrisdhanaraj/status/670328025553219584)  
 >Chris Dhanaraj
 
 >[“This video series on Redux by @dan_abramov on @eggheadio is spectacular!”](https://twitter.com/eddiezane/status/670333133242408960)  
 >Eddie Zaneski
 
->[“Come for the name hype. Stay for the rock solid fundamentals. (Thanks, and great job @dan_abramov and @eggheadio!)”](https://twitter.com/danott/status/669909126554607617)  
+>[“Come for the name hype. Stay for the rock-solid fundamentals. (Thanks, and great job @dan_abramov and @eggheadio!)”](https://twitter.com/danott/status/669909126554607617)  
 >Dan
 
->[“This series of videos on Redux by @dan_abramov is repeatedly blowing my mind - gunna do some serious refactoring”](https://twitter.com/gelatindesign/status/669658358643892224)  
+>[“This series of videos on Redux by @dan_abramov is repeatedly blowing my mind - gonna do some serious refactoring”](https://twitter.com/gelatindesign/status/669658358643892224)  
 >Laurence Roberts
 
 So, what are you waiting for?
@@ -195,7 +195,7 @@ Join the [#redux](https://discord.gg/0ZcbPKXt5bZ6au5t) channel of the [Reactiflu
 * [NuclearJS](https://github.com/optimizely/nuclear-js) for proving this architecture can be performant;
 * [Om](https://github.com/omcljs/om) for popularizing the idea of a single state atom;
 * [Cycle](https://github.com/cyclejs/cycle-core) for showing how often a function is the best tool;
-* [React](https://github.com/facebook/react) for the pragmatic innovation.
+* [React](https://github.com/facebook/react) to the pragmatic innovation.
 
 Special thanks to [Jamie Paton](http://jdpaton.github.io) for handing over the `redux` NPM package name.
 
